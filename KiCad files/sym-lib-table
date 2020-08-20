@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Long-range-deauther-rescue)(type Legacy)(uri "${KIPRJMOD}/Long range deauther-rescue.lib")(options "")(descr ""))
+)
