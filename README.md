@@ -21,5 +21,6 @@ Spacehuhn Technologies UG invests time and resources providing this open source 
 
 Designed by [Gerjon Eilander](https://github.com/13r1ckz) for Spacehuhn Technologies UG.
 
-Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. 
+CERN Open Hardware Licence, 
 See license for additional details.
+
