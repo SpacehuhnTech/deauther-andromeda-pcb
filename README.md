@@ -6,13 +6,13 @@ Click here to purchase one from the shop</a>
 PCB files for the Long range Deauther. 
 
 Format is KiCad project.
-KiCad version 5.1.4 is used during developmen prosess.
+KiCad version 5.1.4 is used during development process.
 
 ### Description
-A small but powerfull board. this board is made to make full use of the wifi deauther. The serial connection is to be used for a powerfull and precise control of the deauther software.
-This paired with the SMA connector, gives you the freedom to go as small and covert as you want. but you can also go big and bold. Tis power at your finger tips, just by a small and simpel extra.
+A small but powerful board. this board is made to make full use of the wifi deauther. The serial connection is to be used for a powerful and precise control of the deauther software.
+This paired with the SMA connector, gives you the freedom to go as small and covert as you want. but you can also go big and bold. Tis power at your finger tips, just by a small and simple extra.
 
-### Recomended firmware
+### Recommended firmware
 - [ESP8266 Deauther](https://github.com/SpacehuhnTech/esp8266_deauther)
 
 ### License
@@ -23,4 +23,10 @@ Designed by [Gerjon Eilander](https://github.com/13r1ckz) for Spacehuhn Technolo
 
 CERN Open Hardware Licence, 
 See license for additional details.
+
+##### Thanks to:
+- [killergeek](https://github.com/killergeek)
+- [davedarko](https://github.com/davedarko)
+For debug assistance
+
 
