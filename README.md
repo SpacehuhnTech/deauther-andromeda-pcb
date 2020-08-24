@@ -25,8 +25,8 @@ CERN Open Hardware Licence,
 See license for additional details.
 
 ##### Thanks to:
+For debug assistance:
 - [killergeek](https://github.com/killergeek)
 - [davedarko](https://github.com/davedarko)
-For debug assistance
 
 
