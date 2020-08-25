@@ -19,7 +19,7 @@ This paired with the SMA connector, gives you the freedom to go as small and cov
 
 Spacehuhn Technologies UG invests time and resources providing this open source design, please support Spacehuhn Technologies UG and open-source hardware by purchasing products from [Spacehuhn Technologies UG](https://spacehuhn.tech/)
 
-Designed by [Gerjon Eilander](https://github.com/13r1ckz) for Spacehuhn Technologies UG.
+Designed by [13r1ckz](https://github.com/13r1ckz) for Spacehuhn Technologies UG.
 
 CERN Open Hardware Licence, 
 See license for additional details.
