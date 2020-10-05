@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Long_range_deauther)(type KiCad)(uri ${KIPRJMOD}/Long_range_deauther.pretty)(options "")(descr ""))
+  (lib (name spacehunh)(type KiCad)(uri "D:/kicad projects/spacehunh")(options "")(descr ""))
+  (lib (name Art)(type KiCad)(uri "D:/kicad projects/spacehunh/long-range-deauther-pcb/Art")(options "")(descr ""))
+)
