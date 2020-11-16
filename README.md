@@ -18,6 +18,9 @@ Hardware features include:
 * ESP8266 WROOM 4MB Module
 * FTDI serial chip
 
+[Watch our video about the making off:](https://www.youtube.com/watch?v=-opemq-5bIY)  
+[![YouTube video link thumbnail](https://img.youtube.com/vi/-opemq-5bIY/0.jpg)](https://www.youtube.com/watch?v=-opemq-5bIY)
+
 ## Format
 
 Made with [KiCad](https://kicad-pcb.org/) version 5.1.4
