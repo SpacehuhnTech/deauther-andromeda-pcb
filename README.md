@@ -8,6 +8,9 @@ PCB files for the Long range Deauther.
 Format is KiCad project.
 KiCad version 5.1.4 is used during developmen prosess.
 
+## Note
+This is the version that is sold at <a href="https://hackerinterchange.com/products/andromeda-deauther">hackerinterchange.com</a>
+
 ### Description
 A small but powerfull board. this board is made to make full use of the wifi deauther. The serial connection is to be used for a powerfull and precise control of the deauther software.
 This paired with the SMA connector, gives you the freedom to go as small and covert as you want. but you can also go big and bold. Tis power at your finger tips, just by a small and simpel extra.
