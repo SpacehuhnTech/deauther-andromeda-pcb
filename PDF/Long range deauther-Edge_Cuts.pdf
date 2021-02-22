@@ -70,7 +70,11 @@ endobj
 10 0 obj
 <<
 /Producer (KiCAD PDF)
+<<<<<<< HEAD
 /CreationDate (D:20201017141943)
+=======
+/CreationDate (D:20201004160110)
+>>>>>>> 4f5eff2da70f33c6a3496d7f09484d0b736aad29
 /Creator (PCBNEW)
 /Title (Long range deauther-Edge_Cuts.pdf)
 /Trapped false
