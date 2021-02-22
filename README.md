@@ -1,6 +1,4 @@
 # Deauther Andromeda PCB
-=======
-# Long range Deauther
 ----------
 PCB files for the Deauther Andromeda
 
@@ -9,8 +7,6 @@ PCB files for the Deauther Andromeda
     Click here to purchase one from the store
 </a>
 
-## About the product
-=======
 ## Note
 This is the version that is sold at <a href="https://hackerinterchange.com/products/andromeda-deauther">hackerinterchange.com</a>
 
