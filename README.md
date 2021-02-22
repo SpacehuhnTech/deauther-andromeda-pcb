@@ -1,20 +1,18 @@
 # Deauther Andromeda PCB
 ----------
-PCB files for the Deauther Andromeda
+<a href="https://spacehuhn.store/product/deauther-andromeda/"><img src="Pictures/front_Render.png?raw=true" width="500px"><br/>
+Click here to purchase one from the shop</a>
 
-<a href="https://spacehuhn.store/product/deauther-andromeda/">
-    <img src="Pictures/front_Render.png" width="500px"><br/>
-    Click here to purchase one from the store
-</a>
+PCB files for the Deauther andromeda.
 
-## Note
-This is the version that is sold at <a href="https://hackerinterchange.com/products/andromeda-deauther">hackerinterchange.com</a>
+Format is KiCad project.
+KiCad version 5.1.4 is used during developmen prosess.
 
 ### Description
 A small but powerfull board. this board is made to make full use of the wifi deauther. The serial connection is to be used for a powerfull and precise control of the deauther software.
 This paired with the SMA connector, gives you the freedom to go as small and covert as you want. but you can also go big and bold. Tis power at your finger tips, just by a small and simpel extra.
 
-A USB-powered WiFi pentesting tool based on the ESP8266. 
+A USB-powered WiFi pentesting tool based on the ESP8266.
 Optimized for the [ESP8266 Deauther V3](https://github.com/SpacehuhnTech/esp8266_deauther/tree/v3) and [Huhnitor](https://github.com/spacehuhntech/huhnitor).  
 
 Hardware features include:  

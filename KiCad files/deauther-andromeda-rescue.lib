@@ -1,0 +1,52 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# AP2112-3.3-Long-range-deauther-rescue
+#
+DEF AP2112-3.3-Long-range-deauther-rescue U 0 40 Y Y 1 F N
+F0 "U" 0 150 50 H V C CNN
+F1 "AP2112-3.3-Long-range-deauther-rescue" 0 250 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -200 100 200 -300 0 1 0 N
+X IN 1 -300 0 100 R 50 50 1 1 W
+X GND 2 -300 -200 100 R 50 50 1 1 w
+X EN 3 -300 -100 100 R 50 50 1 1 I
+X P4 4 300 -200 100 L 50 50 1 1 N
+X OUT 5 300 0 100 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+# ESP-WROOM-02U-Deauth_Usb_Symbol-Long-range-deauther-rescue-Long-range-deauther-rescue
+#
+DEF ESP-WROOM-02U-Deauth_Usb_Symbol-Long-range-deauther-rescue-Long-range-deauther-rescue U 0 40 Y Y 1 F N
+F0 "U" 0 550 50 H V C CNN
+F1 "ESP-WROOM-02U-Deauth_Usb_Symbol-Long-range-deauther-rescue-Long-range-deauther-rescue" 0 650 50 H V C CNN
+F2 "" -50 450 50 H I C CNN
+F3 "" -50 450 50 H I C CNN
+DRAW
+S -300 500 300 -400 0 1 0 N
+X 3V3 1 -400 400 100 R 50 50 1 1 I
+X IO4 10 400 -250 100 L 50 50 1 1 I
+X RXD 11 400 -150 100 L 50 50 1 1 I
+X TXD 12 400 -50 100 L 50 50 1 1 I
+X GND 13 0 -500 100 U 50 50 1 1 I N
+X IO5 14 400 50 100 L 50 50 1 1 I
+X RST 15 400 150 100 L 50 50 1 1 I
+X TOUT 16 400 250 100 L 50 50 1 1 I
+X IO16 17 400 350 100 L 50 50 1 1 I
+X GND 18 0 -500 100 U 50 50 1 1 I N
+X GND 19 0 -500 100 U 50 50 1 1 I
+X EN 2 -400 300 100 R 50 50 1 1 I
+X IO14 3 -400 200 100 R 50 50 1 1 I
+X IO12 4 -400 100 100 R 50 50 1 1 I
+X IO13 5 -400 0 100 R 50 50 1 1 I
+X IO15 6 -400 -100 100 R 50 50 1 1 I
+X IO2 7 -400 -200 100 R 50 50 1 1 I
+X IO0 8 -400 -300 100 R 50 50 1 1 I
+X GND 9 0 -500 100 U 50 50 1 1 I N
+ENDDRAW
+ENDDEF
+#
+#End Library
