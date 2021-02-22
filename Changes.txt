@@ -1,7 +1,7 @@
 V1:
 initial version limited edition version.
 
-V1.1 Andromeda
+V1.1 Andromeda Hackerinterchange
 new usb serial chip.
 change of buttons.
 smd usb.
@@ -9,3 +9,6 @@ esp8266 footprint change.
 new regulator.
 change via locations.
 Add art
+
+V1.2 Andromeda 
+Io pin acces.
