@@ -1,6 +1,6 @@
 # Long range Deauther
 ----------
-<a href="https://spacehuhn.store/product/long-range-deauther/"><img src="Pictures/board.png?raw=true" width="500px"><br/>
+<a href="https://spacehuhn.store/product/long-range-deauther/"><img src="Pictures/front_Render.png?raw=true" width="500px"><br/>
 Click here to purchase one from the shop</a>
 
 PCB files for the Long range Deauther. 
