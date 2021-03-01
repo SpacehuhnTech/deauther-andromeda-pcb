@@ -1,0 +1,17 @@
+### Module positions - created on ma 01 mrt 2021 22:22:19 CET ###
+### Printed by Pcbnew version pcbnew 5.1.5+dfsg1-2build2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                       Package                                       PosX       PosY       Rot  Side
+FID3      Fiducial_0.5mm_Mask1.5mm  Fiducial_0.5mm_Mask1.5mm                  133.7843  -128.2217    0.0000  top
+J1        USB_A                     USB_A_CNCTech_1001-011-01101_Horizontal    88.7133  -121.9564  180.0000  top
+J1        USB_A                     USB_A_CNCTech_1001-011-01101_Horizontal    45.6972  -121.9564  180.0000  top
+J1        USB_A                     USB_A_CNCTech_1001-011-01101_Horizontal    88.7133  -105.9564  180.0000  top
+J1        USB_A                     USB_A_CNCTech_1001-011-01101_Horizontal    45.6972  -105.9564  180.0000  top
+J1        USB_A                     USB_A_CNCTech_1001-011-01101_Horizontal    88.7133   -89.9564  180.0000  top
+J1        USB_A                     USB_A_CNCTech_1001-011-01101_Horizontal    45.6972   -89.9564  180.0000  top
+J1        USB_A                     USB_A_CNCTech_1001-011-01101_Horizontal    88.7133   -73.9564  180.0000  top
+J1        USB_A                     USB_A_CNCTech_1001-011-01101_Horizontal    45.6972   -73.9564  180.0000  top
+J1        USB_A                     USB_A_CNCTech_1001-011-01101_Horizontal    88.7133   -57.9564  180.0000  top
+J1        USB_A                     USB_A_CNCTech_1001-011-01101_Horizontal    45.6972   -57.9564  180.0000  top
+## End
