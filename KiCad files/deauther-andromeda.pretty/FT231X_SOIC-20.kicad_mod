@@ -1,4 +1,4 @@
-(module FT231X_SOIC-20 (layer F.Cu) (tedit 0)
+(module FT231X_SOIC-20 (layer F.Cu) (tedit 603D5B9D)
   (attr smd)
   (fp_text reference REF** (at -5.0099 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
