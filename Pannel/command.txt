@@ -1,0 +1,6 @@
+without fiducials pannel command:
+kikit panelize grid --gridsize 5 2 --vcuts --railsTb 5 --tolerance 50 KiCad\ files/deauther-andromeda.kicad_pcb pannel_clean.kicad_pcb
+
+
+With fiducials and tooling points command:
+kikit panelize grid --gridsize 5 2 --vcuts --railsTb 5 --tolerance 50 --fiducials 13 4 1 2 --tooling 8 2 2 KiCad\ files/deauther-andromeda.kicad_pcb pannel.kicad_pcb
