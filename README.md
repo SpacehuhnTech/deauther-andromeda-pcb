@@ -26,7 +26,7 @@ Hardware features include:
 
 ## Format
 
-Made with [KiCad](https://kicad-pcb.org/) version 5.1.4
+Made with [KiCad](https://kicad.org/) version 5.1.4
 
 ## Firmware
 
